@@ -1,0 +1,23 @@
+{
+  "name": "348-project",
+  "version": "1.0.0",
+  "description": "CS348 porject dependencies",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.uwaterloo.ca/s3gambhi/348-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "csv-parse": "^5.3.1",
+    "express": "^4.18.2",
+    "fast-csv": "^4.3.6",
+    "mysql": "^2.18.1"
+  }
+}

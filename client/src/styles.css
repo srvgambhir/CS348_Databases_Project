@@ -1,0 +1,27 @@
+
+.App {
+  font-family: sans-serif;
+  margin: 1%;
+}
+
+table {
+  display: block;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+tr {
+  display: block;
+  float: left;
+}
+
+th,
+td {
+  display: block;
+  text-align: left;
+  padding: 6px;
+  border: 1px solid #ccc;
+}
