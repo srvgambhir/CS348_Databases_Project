@@ -1,3 +1,5 @@
+This is a project created during CS348 - Databases. In a team of 4, we created a tool for analyzing Premier League season data. The web app was built using React and Node.js + Express.
+
 # 348 Project
 
 ## Getting started
